@@ -9,12 +9,6 @@ Uygulamanı yapay zekâya yazdırdın, açılıyor, kaydediyor, para bile alıyo
 
 Bu liste bir sızma testinin yerini tutmaz. Gerçek kullanıcı verisi ya da ödeme tutuyorsan profesyonel denetim yaptır. Buradakiler, o denetime girmeden önce kendin kapatabileceğin kapılar.
 
-Hibiko'yu yapan Ömer Said Akçin yazdı.
-Promptlar kendi projemde çalıştırıldı; her birinin çıktısı elle kontrol edildi.
-Ağustos 2026.
-
-Başlamadan
-
 Nasıl kullanılır
 1
 Kod tabanının tamamını gören bir araçta aç
